@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="70" height="48" alt="tumblr_inline_mxte4tLBsw1rrry1n540" src="https://github.com/user-attachments/assets/ec6c52ce-460f-4dda-b19b-49ba34ac69cb" />
 
 <!--
 **everysinglenight/everysinglenight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
