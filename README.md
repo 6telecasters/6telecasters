@@ -11,7 +11,8 @@
 <img width="28" height="54" alt="tumblr_inline_mxtkr9j0xp1rrry1n540" src="https://github.com/user-attachments/assets/4472647e-bfd0-4904-bc7d-30967cebdaf9" /></p>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kd01njmt7mgbcm23i809ll703&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=a12626&bar_color_cover=false">
-  </a></p>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kd01njmt7mgbcm23i809ll703&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ae5f6d&bar_color_cover=false">
+  </a>
+</p>
 <p align="center">𓏲(=‸=)</p>
 <p align="center"><img width="240" height="60" alt="tumblr_eebd937c6e6ee71765e55dc4c653bc44_ea2a5608_250" src="https://github.com/user-attachments/assets/3437cc37-b0b6-4fbc-9caa-4798c9e653fc" /></p>
